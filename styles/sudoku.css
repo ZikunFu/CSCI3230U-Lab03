@@ -35,8 +35,8 @@ table.board td:hover {
 table.interface {
     border-collapse: collapse;
     font-size: 30px;
-    color: dimgrey;
     margin: 0px auto;
+    text-align:center;
 }
 
     table.interface td:hover {
